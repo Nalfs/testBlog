@@ -1,4 +1,9 @@
-# React-Adv build enviroment
+
+# testBlog
+This was created with the intent at a first attempt using a headless cms. App was made using docker to run cockpit api on a webpack buildenv with React as frontend. No css or styling, just simpel fetch, sorting/filter and  post.
+
+
+## React-Adv build enviroment
 * [React](https://reactjs.org/)
 * [Clean for WebPack](https://github.com/johnagan/clean-webpack-plugin)
 * [HTML Webpack Plugin](https://github.com/jantimon/html-webpack-plugin)
